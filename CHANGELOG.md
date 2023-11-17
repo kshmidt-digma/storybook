@@ -1,3 +1,8 @@
+## 7.5.4
+
+- Core: Gracefully handle error when parsing preview.js file - [#24858](https://github.com/storybookjs/storybook/pull/24858), thanks [@yannbf](https://github.com/yannbf)!
+- ManagerAPI: Fix setting status without index, crashes storybook - [#24866](https://github.com/storybookjs/storybook/pull/24866), thanks [@ndelangen](https://github.com/ndelangen)!
+
 ## 7.5.3
 
 - Angular: Support v17 - [#24717](https://github.com/storybookjs/storybook/pull/24717), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
